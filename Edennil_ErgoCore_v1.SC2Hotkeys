@@ -2,7 +2,7 @@
 AllowSetConflicts=1
 
 [Hotkeys]
-FPS=Control+Shift+Alt+W
+FPS=Control+Shift+1
 Music=Control+Shift+Alt+V
 Sound=Control+Shift+Alt+SemiColon
 PTT=Control+Shift+Alt+C
@@ -143,7 +143,7 @@ AlarakKnockback=SemiColon
 AlarakKnockback/AlarakCoop=SemiColon
 AlarakKnockback/AlarakReviveBeacon=SemiColon
 AlarakMothershipMassTeleport/SOAMothershipv4=J
-AmorphousArmorcloud/Infestor=V
+AmorphousArmorcloud/Infestor=Space
 AnionPulseCrystals/FleetBeacon=F
 ApocaliskBurrowCharge/StukovApocalisk=J
 Arbiter/Stargate=Y
@@ -207,7 +207,7 @@ BuildTychusBar/TychusSCV=BracketOpen
 BuildTychusMedivacPlatform/TychusSCV=J
 Bunker/SCV=T
 BunkerLoad=V
-BunkerUnloadAll=Space
+BunkerUnloadAll=Space,7
 BurrowChargeCampaign/HotSTorrasque=J
 BurrowChargeCampaign/Ultralisk=J
 BurrowChargeCampaignNoxious/HotSNoxious=J
